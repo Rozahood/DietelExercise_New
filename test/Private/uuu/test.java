@@ -1,2 +1,9 @@
-package Private.uuu;public class test {
+package Private.uuu;
+
+
+import org.junit.jupiter.api.BeforeEach;
+
+public class test {
+     @BeforeEach
+
 }

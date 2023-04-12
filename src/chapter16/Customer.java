@@ -1,2 +1,4 @@
-package chapter16;public class Customer {
+package chapter16;
+
+public class Customer {
 }

@@ -1,2 +1,5 @@
-package chapter16;public class Admin {
+package chapter16;
+
+public class Admin {
+
 }
