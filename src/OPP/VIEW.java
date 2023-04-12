@@ -1,0 +1,3 @@
+package OPP;
+
+public enum VIEW {PRIMARY, PROMOTION, SOCIAL, UPDATES}
